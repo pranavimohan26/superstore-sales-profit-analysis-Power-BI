@@ -13,7 +13,7 @@ of business performance.
 
 ### Executive Overview
 
-![Executive Overview](screenshots/Executive overview.png)
+![Executive Overview](executive-overview.png)
 
 The Executive Overview provides a summary of key business metrics
 including Sales, Customers, Profit, and Orders. It also includes
@@ -22,7 +22,7 @@ sub-category performance.
 
 ### Time Analysis
 
-![Time Analysis](screenshots/Time Analysis.png)
+![Time Analysis](time-Analysis.png)
 
 The Time Analysis page focuses on sales and profit trends over time.
 It includes PM Sales, MTD Sales, YTD Sales, monthly sales trends,
@@ -30,14 +30,14 @@ profit trends, and sales comparisons.
 
 ### Product Analysis
 
-![Product Analysis](screenshots/Product analysis.png)
+![Product Analysis](product-analysis.png)
 
 The Product Analysis page is used to study product and sub-category
 performance and compare sales and profit across different products.
 
 ### Customer Analysis
 
-![Customer Analysis](screenshots/Customer analysis.png)
+![Customer Analysis](customer-analysis.png)
 
 The Customer Analysis page focuses on customer-related sales and
 profit performance and helps compare customer segments and regions.
